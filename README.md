@@ -1,0 +1,1 @@
+Mój pierwszy, prosty template z zastosowaniem preprocesora Sass
